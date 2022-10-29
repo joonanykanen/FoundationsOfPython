@@ -1,7 +1,7 @@
 
 #  FoundationsOfPython
 
-This project consists of 2 main things: The Python course practical assignment of our university and a bunch of other fun programs I wrote. 
+This repository consists of 2 main things: The Python course practical assignment of our university and a bunch of other fun programs I wrote. 
 ## Installation
 
 You can run these programs using Python 3. I suggest downloading Python from [python.org](https://python.org) and running the programs in VS Code using Python extension.
