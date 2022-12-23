@@ -1,5 +1,5 @@
 
-#  FoundationsOfPython
+#  Foundations Of Python
 
 This repository consists of 2 main things: The Python course practical assignment of our university and a bunch of other fun programs I wrote. 
 ## Installation
